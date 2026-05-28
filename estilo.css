@@ -1,0 +1,14 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: black;
+    color: blue;
+    text-align:center ;
+}
+main {
+    background-color: blueviolet;
+    color: cornsilk;
+}
